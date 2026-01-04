@@ -1,4 +1,4 @@
-# 📺 allllllllez
+# 📺 あれ(allllllllez)
 
 何かとアレです。
 
@@ -10,9 +10,11 @@
   <a href="https://github.com/allllllllez/allllllllez/">
     <img src="https://komarev.com/ghpvc/?username=allllllllez" alt="allllllllez" />
   </a>
-  <a href="https://github.com/allllllllez">
-    <img height="20" src="https://img.shields.io/github/followers/allllllllez?label=follow&logo=github&style=flat" />
-  </a>
+  <!--
+    <a href="https://github.com/allllllllez">
+      <img height="20" src="https://img.shields.io/github/followers/allllllllez?label=follow&logo=github&style=flat" />
+    </a>
+  -->
 
   <a href="https://r.jina.ai/https://x.com/__allllllllez__">
     <img height="20" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fr.jina.ai%2Fhttp%3A%2F%2Fx.com%2F__allllllllez__&search=%28%5Cd%5B%5Cd%2C%5C.%5D*%29%5Cs%2BFollowers&replace=%241&flags=ims&label=followers&logo=x&color=blue" />
@@ -33,10 +35,13 @@
 </div>
 
 ## 👤 Profile
+
 - データをエンジニアリングするおしごとをしています
 - 技術コミュニティでイベント運営・企画・登壇などを行っています
-- 2024, 2025 Snowflake DataSuperhero
-- 2025 primeNumber DATA CHAMPIONS
+
+- [2025 Snowflake Data Superheroes](https://medium.com/snowflake/celebrating-the-2025-data-superheroes-the-innovators-trailblazers-and-changemakers-8e219e48587a)  
+- [2025 primeNumber DATA CHAMPIONS](https://primenumber.com/news/2032)
+- [2024 Snowflake Data Superheroes](https://medium.com/snowflake/introducing-the-2024-snowflake-data-superheroes-1962bc20079f)  
 
 ---
 
@@ -46,8 +51,8 @@
 | -- | -- | -- |
 | SnowVillage Mayors | 2024/12- | SnowVillage（Snowflake 日本コミュニティ） 全体のコラボレーション推進を担う企画・運営チーム <br>[SnowVillage](https://usergroups.snowflake.com/snowvillage/) |
 | primeNumber User Group（pUG） | 2024/12- | クラウドETL「TROCCO」やクラウドデータカタログ「COMETA」のユーザーグループ<br>[connpass](https://pug.connpass.com/) | 
-| Snowflake女子会 | 2024/9- | SnowVillage で女性同志のつながりと活躍の場を作るコミュニティ<br>[TECHPLAY](https://techplay.jp/community/snowvillage-women)<br>[note](https://note.com/snowvillage_wmn) |
-| Frosty Friday Live Challenge | 2024/5- | 定期配信・イベント企画<br>[YouTube](https://www.youtube.com/playlist?list=PLVj4iIZgzTAq2FzaBBgqFOtZaJTcoG3JR) |
+| Snowflake女子会 | 2024/9- | SnowVillage で女性同士のつながりと活躍の場を作るコミュニティ<br>[TECHPLAY](https://techplay.jp/community/snowvillage-women)<br>[note](https://note.com/snowvillage_wmn) |
+| Frosty Friday Live Challenge | 2024/5- | 定期配信・イベント企画<br>[<img alt="Frosty Friday Live Challenge" src="https://github.com/user-attachments/assets/fa28efe0-3d44-4e83-a877-d862cf833e26" width="200">](https://youtube.com/playlist?list=PLVj4iIZgzTAq2FzaBBgqFOtZaJTcoG3JR&si=w9FrB6cJBq6LCaFX)<br>[Frosty Friday(Original)](https://frostyfriday.org/)<br>[私の解法はこちら](https://github.com/allllllllez/frosty_friday/) |
 | SnowVillage コンテナグループ | 2024/3頃- | Snowpark Container Servicesやコンテナ技術をトピックに活動するユーザーグループ |
 
 <details>
@@ -59,6 +64,8 @@
 
 </details>
 
+---
+
 ## 🛠 Event Organization and Talks / イベント運営・登壇
 
 ```凡例
@@ -67,9 +74,14 @@
 
 ### 2025年
 
-- 🎤 登壇 14 回（主に Snowflake / dbt / TROCCO）
-- 🔁 Snowflake女子会・#p_UG 東京・Frosty Friday 運営
-- 📍 遠州モヤモヤチッカイギ 運営（実行委員会）
+- 🎤 登壇 14 回
+    - 遠州モヤモヤチッカイギ 運営（実行委員会）
+    - 言語大乱闘! スマッシュシスターズ!
+    - Snowflake World Tour Tokyo 2025 シアターセッション
+    - primeNumber DATA SUMMIT 2025
+    - dbt Coalesce on the Load Tokyo
+    - Snowflake BUILD Japan
+- 🔁 SnowVillage Mayors・Snowflake女子会・pUG・Frosty Friday・SnowVillage コンテナグループ 運営
 
 <details>
 <summary> 一覧 </summary>
@@ -106,7 +118,33 @@
 
 ### 2024年
 
-WIP
+- 🎤 登壇 10 回
+  - 01（zeroONE）
+  - 東北大学情報科学研究科 公開講演会
+- 🔁 SnowVillage ユーザグループリーダー → Mayors・Snowflake女子会・Frosty Friday・SnowVillage コンテナグループ 運営
+
+
+<details>
+<summary> 一覧 </summary>
+
+|日付|イベント|役割|内容 / 資料|
+|--|--|--|--|
+|3/1|Snowpark Container Servicesで解き放つ！データアプリケーションの魔法 #SnowVillage|🔁🎤|[TECHPLAY](https://techplay.jp/event/934878)<br>[まとめ](https://togetter.com/li/2324894)<br>[資料](https://speakerdeck.com/__allllllllez__/spcs-deshi-xian-suru-dbt-all-in-snowflake-noshi-jie)|
+|4/19|troccoUG trocco × Snowflake の活用紹介|🎤|[資料](https://speakerdeck.com/__allllllllez__/si-ga-trocco-wotui-suli-you)|
+|4/22|PyData Okinawa Meetup #42|🎤|[connpass](https://pydataokinawa.connpass.com/event/314900/)<br>[資料](https://speakerdeck.com/__allllllllez__/python-to-snowflake-hazutuyou-dayo-snowflake-no-python-guan-lian-ji-neng-wohurikaeru)|
+|7/24|#TROCCOUG TROCCO初心者大歓迎！夏の初心者LT大会|🎤|[connpass](https://pug.connpass.com/event/320876/)<br>[資料(動画)](https://x.com/__allllllllez__/status/1817109439121621192)|
+|7/29|【関西開催】まだ間に合う！Snowflake Summit最新情報キャッチアップ【Snowflake WESTユーザー会】|🎤|[TECHPLAY](https://techplay.jp/event/951200)|
+|7/30|KDDI Snowflake Summer Night|🎤|-|
+|9/11-9/12|Snowflake World Tour| 🔁 |ブース対応メイン<br>[レポート](https://datumstudio.jp/blog/1009_snowflake_world-tour_report/)|
+|9/13|#TROCCOUG dbtの概要からdbt連携の活用術まで一気に学びたい|📍|[connpass](https://pug.connpass.com/event/326006/)|
+|9/27|第23回同窓会総会ならびに公開講演会・情報科学研究科DEIに関する教育FD（東北大学大学院情報科学研究科）|🎤|[開催案内](https://www.is.tohoku.ac.jp/~alumni/alumniGSIS/23st_alumni.html)|
+|11/15|#TROCCOUG 東京：TROCCOで取り組むデータ活用とリバースETL|🔁|[connpass](https://pug.connpass.com/event/336595/)|
+|11/22|Snowflake女子会 -#2- ～広がるつながり、加速する未来 ‐キャリアと技術で進む私たちの一歩‐～|🔁|[TECHPLAY](https://techplay.jp/event/960109)|
+|11/22|Snowflake最新情報キャッチアップ＆LT大会！～第1回Snowflake OKINAWA User Group|🔁🎤|[TECHPLAY](https://techplay.jp/event/960110)|
+|12/10|01（zeroONE）2024|🎤|[イベントページ](https://primenumber.com/01/2024)<br>[タイムテーブル(T-2)](https://primenumber.com/01/2024/timetable/T-2)<br>[まとめ](https://togetter.com/li/2479161)|
+|12/13|Snowflake女子会 #3 ～新しい出会いとアイディア満載！ 男女問わずの懇親会!!～|🔁🎤|[TECHPLAY](https://techplay.jp/event/963829)<br>[まとめ](https://togetter.com/li/2484163)<br>[登壇資料](https://speakerdeck.com/__allllllllez__/5fen-dewakaru-snowpark-container-service)|
+
+</details>
 
 ### 2023年
 
@@ -117,9 +155,10 @@ WIP
 
 ## 🏆 Other Activities / その他
 
-- [2025 Snowflake Data Superheroes 選出](https://medium.com/snowflake/celebrating-the-2025-data-superheroes-the-innovators-trailblazers-and-changemakers-8e219e48587a)  
-- [2025 primeNumber DATA CHAMPIONS 選出](https://primenumber.com/news/2032)
-- [2024 Snowflake Data Superheroes 選出](https://medium.com/snowflake/introducing-the-2024-snowflake-data-superheroes-1962bc20079f)  
+WIP
+
+- SnowPro Specialty: Snowpark
+- SnowPro Advanced: Architect
 
 ---
 
