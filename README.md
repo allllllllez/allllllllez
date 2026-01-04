@@ -55,7 +55,15 @@
 | Snowflake女子会 | 🛠🔁 | 2024/9- | SnowVillage で女性同志のつながりと活躍の場を作るコミュニティ<br>[TECHPLAY](https://techplay.jp/community/snowvillage-women)<br>[note](https://note.com/snowvillage_wmn) |
 | Frosty Friday Live Challenge | 🛠🔁 | 2024/5- | 定期配信・イベント企画<br>[YouTube](https://www.youtube.com/playlist?list=PLVj4iIZgzTAq2FzaBBgqFOtZaJTcoG3JR) |
 | SnowVillage コンテナグループ | 🛠🔁 | 2024/3頃- | Snowpark Container Servicesやコンテナ技術をトピックに活動するユーザーグループ |
+
+<details>
+<summary> 過去の運営グループ </summary>
+
+| グループ名 | 役割 | 期間 | 説明 |
+| -- | -- | -- | -- |
 | SnowVillage ユーザグループリーダー | 🛠🔁 | 2023/2-2024/12頃 | SnowVillage 企画・運営チーム（Mayorsの前身） <br>[SnowVillage](https://usergroups.snowflake.com/snowvillage/) |
+
+</details>
 
 ### 2025年
 
