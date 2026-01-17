@@ -1,0 +1,29 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: "0 0 * * SUN"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in Zenn posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "Zenn"
+          feed_list: "https://zenn.dev/allllllllez/feed"
+          max_post_count: 2
+
+      - name: Pull in SpeakerDeck posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "SpeakerDeck"
+          feed_list: "https://speakerdeck.com/__allllllllez__.rss"
+          max_post_count: 2
