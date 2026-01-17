@@ -50,6 +50,8 @@
 ### Zenn
 
 <!-- Zenn:START -->
+- [2025年も目玉機能全部乗せなデモをやってみましたのご報告 ～ SWTT DATUM STUDIO ブース解説](https://zenn.dev/datum_studio/articles/45d07c2a3dae0a)
+- [Snowflake Postgres に SPCS（Snowpark Container Services）からアクセスしてみる](https://zenn.dev/datum_studio/articles/2bcee8e153e3c9)
 <!-- Zenn:END -->
 
 ### SpeakerDeck
