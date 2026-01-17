@@ -49,13 +49,13 @@
 
 ### Zenn
 
-<!-- ZENN:START -->
-<!-- ZENN:END -->
+<!-- Zenn:START -->
+<!-- Zenn:END -->
 
 ### SpeakerDeck
 
-<!-- SPEAKERDECK:START -->
-<!-- SPEAKERDECK:END -->
+<!-- SpeakerDeck:START -->
+<!-- SpeakerDeck:END -->
 
 ---
 
