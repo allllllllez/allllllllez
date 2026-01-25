@@ -34,14 +34,11 @@
   </a>
 </div>
 
-## 👤 Profile
+## 👤 Profile / よくわかるあれさんの概要
 
-- データをエンジニアリングするおしごとをしています
-- 技術コミュニティでイベント運営・企画・登壇などを行っています
+Data Engineer / Management tech communities, plan events and speak at events, and more / データをエンジニアリングするおしごとをしています / 技術コミュニティの運営・イベントの企画・登壇などを行っています
 
-- [2025 Snowflake Data Superheroes](https://medium.com/snowflake/celebrating-the-2025-data-superheroes-the-innovators-trailblazers-and-changemakers-8e219e48587a)
-- [2025 primeNumber DATA CHAMPIONS](https://primenumber.com/news/2032)
-- [2024 Snowflake Data Superheroes](https://medium.com/snowflake/introducing-the-2024-snowflake-data-superheroes-1962bc20079f)
+[2025 Snowflake Data Superheroes](https://medium.com/snowflake/celebrating-the-2025-data-superheroes-the-innovators-trailblazers-and-changemakers-8e219e48587a) / [2025 primeNumber DATA CHAMPIONS](https://primenumber.com/news/2032) / [2024 Snowflake Data Superheroes](https://medium.com/snowflake/introducing-the-2024-snowflake-data-superheroes-1962bc20079f)
 
 ---
 
@@ -124,7 +121,7 @@ Summary:
 | 8/10 | 言語大乱闘! スマッシュシスターズ! | 🎤 | [TECHPLAY](https://techplay.jp/event/983786)<br>[レポート](https://note.com/snowvillage_wmn/n/nb7c1cb4d0385)<br>[まとめ](https://posfie.com/@__allllllllez__/p/3VjHwDS) |
 | 8/20 | #p_UG 東京：夏のデータ活用大共有会 データ活用の第一歩からAIにやさしいデータ基盤までお届け！ | 🔁 | [connpass](https://pug.connpass.com/event/364357/)<br>[まとめ](https://posfie.com/@__allllllllez__/p/fZffWUd) |
 | 9/11–12 | Snowflake World Tour Tokyo 2025 | 🔁🎤 | [Theater Session](https://snowflake-event.jp/world-tour-25/theater-timetable/)<br>コミュニティブース企画（Frosty Friday / Snowflake女子会 / Tech Assemble コンテナグループ） |
-| 10/10 | [Snowflake女子会] データでつながる関西コミュニティ~Tableau × Snowflakeコラボ~ | 🔁🎤 | [TECHPLAY](https://techplay.jp/event/986291)<br>[まとめ](https://posfie.com/@__allllllllez__/p/ZLK7tCU) |
+| 10/10 | [Snowflake女子会] データでつながる関西コミュニティ～Tableau × Snowflakeコラボ～ | 🔁🎤 | [TECHPLAY](https://techplay.jp/event/986291)<br>[まとめ](https://posfie.com/@__allllllllez__/p/ZLK7tCU) |
 | 10/24 | #p_UG 東京：データ活用が進む組織の作り方 | 🔁 | [connpass](https://pug.connpass.com/event/370389/)<br>[まとめ](https://posfie.com/@__allllllllez__/p/9hOVcTJ) |
 | 11/14 | Snowflake東北ユーザー会 × 和Viz Tableau コラボイベント 〜東北から広がるデータ活用の輪！〜 | 🎤 | [TECHPLAY](https://techplay.jp/event/985422)<br>[まとめ](https://posfie.com/@__allllllllez__/p/Bd4br3C) |
 | 11/16 | 遠州モヤモヤチッカイギ in 磐田ヤマハスタジアム powered by デッカイギ | 📍🎤 | [開催レポート](https://note.com/dekaigi/n/n77484af0459c)<br>[まとめ](https://posfie.com/@dekaigi/p/QgwbB2R)<br>[資料](https://speakerdeck.com/__allllllllez__/satukatodetaji-pan-nohua) |
