@@ -91,14 +91,9 @@ Data Engineer / Management tech communities, plan events and speak at events, an
 
 Summary:
 
-- 🎤 登壇 14 回
-  - 遠州モヤモヤチッカイギ 運営（実行委員会）
-  - 言語大乱闘! スマッシュシスターズ!
-  - Snowflake World Tour Tokyo 2025 シアターセッション
-  - primeNumber DATA SUMMIT 2025
-  - dbt Coalesce on the Load Tokyo
-  - Snowflake BUILD Japan
-- 🔁 SnowVillage Mayors・Snowflake女子会・pUG・Frosty Friday・SnowVillage コンテナグループ 運営
+- 🎤 登壇 14 回 （Snowflake World Tour Tokyo 2025 シアターセッション / primeNumber DATA SUMMIT 2025 / dbt Coalesce on the Load Tokyo / Snowflake BUILD Japan / ...）
+- 🔁 SnowVillage Mayors / Snowflake女子会 / Frosty Friday / SnowVillage コンテナグループ / pUG 運営
+- 📍遠州モヤモヤチッカイギ 実行委員会 / 言語大乱闘! スマッシュシスターズ!（SQL）
 
 <details>
 <summary> 一覧 </summary>
@@ -138,10 +133,8 @@ Summary:
 
 Summary:
 
-- 🎤 登壇 10 回
-  - 01（zeroONE）
-  - 東北大学情報科学研究科 公開講演会
-- 🔁 SnowVillage ユーザグループリーダー → Mayors・Snowflake女子会・Frosty Friday・SnowVillage コンテナグループ 運営
+- 🎤 登壇 10 回 （01（zeroONE） / 東北大学情報科学研究科 公開講演会 / Snowflake女子会 / pUG / ...） 
+- 🔁 SnowVillage ユーザグループリーダー → Mayors / Snowflake女子会 / Frosty Friday / SnowVillage コンテナグループ / pUG 運営
 
 <details>
 <summary> 一覧 </summary>
@@ -166,6 +159,31 @@ Summary:
 </details>
 
 ### 2023年
+
+Summary:
+
+- 🎤 登壇 7 回 （SnowDay / Snowflake Build Meetup / Data Engineer Geeks / ... ）
+- 🔁 SnowVillage ユーザグループリーダー
+- 📍 Data Engineer Geeks
+
+<details>
+<summary> 一覧 </summary>
+
+| 日付 | イベント | 役割 | 内容 / 資料 |
+| -- | -- | -- | -- |
+| 1/26 | Data Engineer Geeks #1 データエンジニアのためのSnowpark入門 | 📍🎤 | [connpass](https://datumstudio.connpass.com/event/270726/)<br>[資料](https://speakerdeck.com/__allllllllez__/nian-du-mo-yu-suan-xiao-hua-ji-large-memory-instance-de-hua-xiang-fen-lei-sitemita) |
+| 2/14 | SnowDay 2023 | 🎤（ハンズオン講師） | [レポート](https://datumstudio.jp/blog/20230228_snowdayjapan_eventreport/)  |
+| 5/17 | コラボレーション大航海時代で生き残るデータリテラシーを身につけよう！ | 🎤 | [イベントページ](https://usergroups.snowflake.com/events/details/snowflake-japan-presents-koraboreshiyonda-hang-hai-shi-dai-desheng-kican-rudetariterashiwoshen-nitsukeyou-wei-lai-nodetasaiensukontesuto-snowvillage-deyatsutemita/)<br>[資料](https://speakerdeck.com/snowvillage/rising-future-data-science-contest)<br>[YouTube](https://youtube.com/live/tU5yIIbsVkU?feature=share) |
+| 7/5 | 最高で究極の #SnowflakeSummit を語り合おう〜ラスベガスより愛を込めて | 🔁🎤 | [イベントページ](https://usergroups.snowflake.com/events/details/snowflake-japan-presents-zui-gao-dejiu-ji-no-snowflakesummit-woyu-rihe-ou-rasubegasuyoriai-woip-mete/)<br>[YouTube](https://www.youtube.com/watch?v=xsLegl842qc) |
+| 7/29 | Data Engineer Geeks #3 Snowflake hands-on | 📍🎤 | [イベントページ](https://datum-ai-seminar.connpass.com/event/288644/)<br>[ソースコード](https://github.com/allllllllez/20230729-degeeks3-snowpark-mlpipeline) |
+| 9/8 | Snowflake Data Cloud World Tour Tokyo | 🔁 | コミュニティミートアップ |
+| 11/10 | Snowflake について語り尽くす夜@沖縄 | 🎤 | [connpass](https://kddi-snowvillage.connpass.com/event/299925/)<br>[YouTube](https://www.youtube.com/live/QdQBfDQXdMk)<br>[資料](https://speakerdeck.com/__allllllllez__/external-network-accesstostreamlitdedetarodoapurizuo-tutemita) |
+| 12/15 | Snowflake Build Meetup | 🔁🎤<br>デモンストレーションサポーター／LT登壇（代役） | [イベントページ](https://usergroups.snowflake.com/events/details/snowflake-japan-presents-detaenziniajie-noinhuruensazhi-chuan-snowflake-data-cloudnozui-xin-ji-neng-goshao-jie-build-meetup-2023nian-12yue-15ri-jin-kai-cui/) |
+
+</details>
+
+
+### 2022年
 
 WIP
 
