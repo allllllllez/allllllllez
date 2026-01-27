@@ -221,7 +221,7 @@ WIP
 ## 🔗 Links
 
 - GitHub: https://github.com/allllllllez
-- X (Twitter): [https://x.com/**allllllllez**](https://x.com/__allllllllez__)
-- Speaker Deck: [https://speakerdeck.com/**allllllllez**](https://speakerdeck.com/__allllllllez__)
-- posfie: [https://posfie.com/@**allllllllez**](https://posfie.com/@__allllllllez__)
-- Linktree: [https://linktr.ee/**allllllllez**](https://linktr.ee/__allllllllez__)
+- X (Twitter): [https://x.com/\_\_allllllllez\_\_](https://x.com/__allllllllez__)
+- Speaker Deck: [https://speakerdeck.com/\_\_allllllllez\_\_](https://speakerdeck.com/__allllllllez__)
+- posfie: [https://posfie.com/@\_\_allllllllez\_\_](https://posfie.com/@__allllllllez__)
+- Linktree: [https://linktr.ee/\_\_allllllllez\_\_](https://linktr.ee/__allllllllez__)
