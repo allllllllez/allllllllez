@@ -4,7 +4,7 @@
 
 ## 👤 Profile / よくわかるあれさんの概要
 
-<img align="right" width="300" alt="allllllllez" src="https://github.com/user-attachments/assets/5e246162-cdf3-43c5-a10f-ef2169fe8cb4" />
+<img align="right" width="400" alt="allllllllez" src="https://github.com/user-attachments/assets/5e246162-cdf3-43c5-a10f-ef2169fe8cb4" />
 
 Data Engineer / Management tech communities, plan events and speak at events, and more / データをエンジニアリングするおしごとをしています / 技術コミュニティの運営・イベントの企画・登壇などを行っています
 
