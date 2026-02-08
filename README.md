@@ -7,7 +7,7 @@
     <td valign="top">
       <h2>👤 Profile / よくわかるあれさんの概要</h2>
       <p>Data Engineer / Management tech communities, plan events and speak at events, and more / データをエンジニアリングするおしごとをしています / 技術コミュニティの運営・イベントの企画・登壇などを行っています</p>
-      <p><a href="https://medium.com/snowflake/celebrating-the-2025-data-superheroes-the-innovators-trailblazers-and-changemakers-8e219e48587a">2025 Snowflake Data Superheroes</a> / <a href="https://primenumber.com/news/2032">2025 primeNumber DATA CHAMPIONS</a> / <a href="https://medium.com/snowflake/introducing-the-2024-snowflake-data-superheroes-1962bc20079f">2024 Snowflake Data Superheroes</a></p>
+      <p><a href="https://medium.com/snowflake/celebrating-the-2026-data-superheroes-e1ca84f89020">2026 Snowflake Data Superheroes</a> / <a href="https://medium.com/snowflake/celebrating-the-2025-data-superheroes-the-innovators-trailblazers-and-changemakers-8e219e48587a">2025 Snowflake Data Superheroes</a> / <a href="https://primenumber.com/news/2032">2025 primeNumber DATA CHAMPIONS</a> / <a href="https://medium.com/snowflake/introducing-the-2024-snowflake-data-superheroes-1962bc20079f">2024 Snowflake Data Superheroes</a></p>
     </td>
     <td>
       <img alt="allllllllez" src="https://github.com/user-attachments/assets/5e246162-cdf3-43c5-a10f-ef2169fe8cb4" />
