@@ -2,10 +2,11 @@
 
 何かとアレです。
 
+## 👤 Profile / よくわかるあれさんの概要
+
 <table>
   <tr>
     <td valign="top">
-      <h2>👤 Profile / よくわかるあれさんの概要</h2>
       <p>Data Engineer / Management tech communities, plan events and speak at events, and more / データをエンジニアリングするおしごとをしています / 技術コミュニティの運営・イベントの企画・登壇などを行っています</p>
       <p><a href="https://medium.com/snowflake/celebrating-the-2025-data-superheroes-the-innovators-trailblazers-and-changemakers-8e219e48587a">2025 Snowflake Data Superheroes</a> / <a href="https://primenumber.com/news/2032">2025 primeNumber DATA CHAMPIONS</a> / <a href="https://medium.com/snowflake/introducing-the-2024-snowflake-data-superheroes-1962bc20079f">2024 Snowflake Data Superheroes</a></p>
     </td>
@@ -194,10 +195,9 @@ WIP
 
 ## 🏆 Other Activities / その他
 
-WIP
-
-- SnowPro Specialty: Snowpark
-- SnowPro Advanced: Architect
+[![SnowPro Advanced: Architect](https://img.shields.io/badge/SnowPro_Advanced-Architect-%2329B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://achieve.snowflake.com/076d3851-37ad-4fa0-b165-1951d559b175)
+[![SnowPro Specialty: Snowpark](https://img.shields.io/badge/SnowPro_Specialty-Snowpark-%2329B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://achieve.snowflake.com/4864625e-4505-4762-bc78-18411232de13)
+[![SnowPro Core Certification](https://img.shields.io/badge/SnowPro_Core-Certification-%2329B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://achieve.snowflake.com/760825b1-b0d7-4dac-90a7-a6616a0ebb1c)
 
 ---
 
