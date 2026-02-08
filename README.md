@@ -8,7 +8,7 @@
 
 Data Engineer / Management tech communities, plan events and speak at events, and more / データをエンジニアリングするおしごとをしています / 技術コミュニティの運営・イベントの企画・登壇などを行っています
 
-<a href="https://medium.com/snowflake/celebrating-the-2025-data-superheroes-the-innovators-trailblazers-and-changemakers-8e219e48587a">2025 Snowflake Data Superheroes</a> / <a href="https://primenumber.com/news/2032">2025 primeNumber DATA CHAMPIONS</a> / <a href="https://medium.com/snowflake/introducing-the-2024-snowflake-data-superheroes-1962bc20079f">2024 Snowflake Data Superheroes</a>
+<a href="https://medium.com/snowflake/celebrating-the-2026-data-superheroes-e1ca84f89020">2026 Snowflake Data Superheroes</a> / <a href="https://medium.com/snowflake/celebrating-the-2025-data-superheroes-the-innovators-trailblazers-and-changemakers-8e219e48587a">2025 Snowflake Data Superheroes</a> / <a href="https://primenumber.com/news/2032">2025 primeNumber DATA CHAMPIONS</a> / <a href="https://medium.com/snowflake/introducing-the-2024-snowflake-data-superheroes-1962bc20079f">2024 Snowflake Data Superheroes</a>
 
 <div align="center">
   <a href="https://github.com/allllllllez/allllllllez/">
