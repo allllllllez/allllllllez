@@ -85,6 +85,19 @@ Data Engineer / Management tech communities, plan events and speak at events, an
 🎤 登壇 / 🔁 継続運営 / 📍 スポット運営
 ```
 
+### 2026年
+
+<details>
+<summary> 一覧 </summary>
+
+| 日付 | イベント | 役割 | 内容 / 資料 |
+| -- | -- | -- | -- |
+| 2/17 | #p_UG 東京：kintoneデータ活用LT大会｜Terraform・AI・リバースETL実践事例 | 🔁 | [connpass](https://pug.connpass.com/event/381439/)<br>[まとめ](https://posfie.com/@__allllllllez__/p/ZRjg1vS) |
+| 2/27 | [Snowflake女子会] 女性限定！テーマ２本立て！生成AI × Streamlitでアプリを作ろう！女性だけのグループディスカッション！ | 🔁 | [TECHPLAY](https://techplay.jp/event/991660)<br>[まとめ](https://posfie.com/@__allllllllez__/p/0toKHR1) |
+| 3/17 | Snowflake Tech Fast Track | 🎤 | [イベントページ](https://www.snowflake.com/snowflake-tech-fast-track/) |
+
+</details>
+
 ### 2025年
 
 Summary:
