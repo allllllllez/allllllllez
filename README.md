@@ -52,8 +52,8 @@ Data Engineer / Management tech communities, plan events and speak at events, an
 ### SpeakerDeck
 
 <!-- SpeakerDeck:START -->
+- [Cortex Code CLI と一緒に進めるAgentic Data Engineering](https://speakerdeck.com/__allllllllez__/cortex-code-cli-to-xu-nijin-meruagentic-data-engineering)
 - [Snowflake Openflow は 「難しい」と思っているあなたへ ～あらゆるデータを「簡単に」連携できる理由、お見せします～](https://speakerdeck.com/__allllllllez__/snowflake-openflow-ha-nan-sii-tosi-tuteiruanatahe-arayurudetawo-jian-dan-ni-lian-xi-dekiruli-you-ojian-sesimasu)
-- [TROCCO 2025年の進化をデモで振り返る](https://speakerdeck.com/__allllllllez__/trocco-2025nian-nojin-hua-wodemodezhen-rifan-ru)
 <!-- SpeakerDeck:END -->
 
 ---
