@@ -94,7 +94,7 @@ Data Engineer / Management tech communities, plan events and speak at events, an
 | -- | -- | -- | -- |
 | 2/17 | #p_UG 東京：kintoneデータ活用LT大会｜Terraform・AI・リバースETL実践事例 | 🔁 | [connpass](https://pug.connpass.com/event/381439/)<br>[まとめ](https://posfie.com/@__allllllllez__/p/ZRjg1vS) |
 | 2/27 | [Snowflake女子会] 女性限定！テーマ２本立て！生成AI × Streamlitでアプリを作ろう！女性だけのグループディスカッション！ | 🔁 | [TECHPLAY](https://techplay.jp/event/991660)<br>[まとめ](https://posfie.com/@__allllllllez__/p/0toKHR1) |
-| 3/17 | Snowflake Tech Fast Track | 🎤 | [イベントページ](https://www.snowflake.com/snowflake-tech-fast-track/) |
+| 3/17 | Snowflake Tech Fast Track | 🎤 | [イベントページ](https://www.snowflake.com/snowflake-tech-fast-track/)<br>[資料](https://speakerdeck.com/__allllllllez__/cortex-code-cli-to-xu-nijin-meruagentic-data-engineering)<br>[イベントレポート](https://datumstudio.jp/blog/0408-snowflake-dataforbreakfast-report/) |
 
 </details>
 
