@@ -8,7 +8,7 @@
 
 Data Engineer / Management tech communities, plan events and speak at events, and more / データをエンジニアリングするおしごとをしています / 技術コミュニティの運営・イベントの企画・登壇などを行っています
 
-<a href="https://medium.com/snowflake/celebrating-the-2026-data-superheroes-e1ca84f89020">2026 Snowflake Data Superheroes</a> / <a href="https://medium.com/snowflake/celebrating-the-2025-data-superheroes-the-innovators-trailblazers-and-changemakers-8e219e48587a">2025 Snowflake Data Superheroes</a> / <a href="https://primenumber.com/news/2032">2025 primeNumber DATA CHAMPIONS</a> / <a href="https://medium.com/snowflake/introducing-the-2024-snowflake-data-superheroes-1962bc20079f">2024 Snowflake Data Superheroes</a>
+Snowflake-Data-Superheroes <a href="https://medium.com/snowflake/introducing-the-2024-snowflake-data-superheroes-1962bc20079f">2024</a>, <a href="https://medium.com/snowflake/celebrating-the-2025-data-superheroes-the-innovators-trailblazers-and-changemakers-8e219e48587a">2025</a>, <a href="https://medium.com/snowflake/celebrating-the-2026-data-superheroes-e1ca84f89020">2026</a> / <a href="https://primenumber.com/news/2032">2025 primeNumber DATA CHAMPIONS</a>
 
 <div align="center">
   <a href="https://github.com/allllllllez/allllllllez/">
@@ -241,7 +241,7 @@ WIP
 | Cloud Platform | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
 | DWH / Data Platform | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white) |
 | DB | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![HiveQL](https://img.shields.io/badge/HiveQL-FDEE21?style=flat&logo=apachehive&logoColor=black) |
-| ETL | ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Embulk](https://img.shields.io/badge/Embulk-E5601A?style=flat&logoColor=white) |
+| ETL | Fivetran いれたい ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Embulk](https://img.shields.io/badge/Embulk-E5601A?style=flat&logoColor=white) |
 | DevOps & Tools | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) |
 | Others | ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white) |
 
