@@ -52,8 +52,8 @@ Snowflake Data Superheroes <a href="https://medium.com/snowflake/introducing-the
 ### SpeakerDeck
 
 <!-- SpeakerDeck:START -->
+- [好きなSnowflakeの機能発表ドラゴンが好きなSnowflakeの機能を発表します](https://speakerdeck.com/__allllllllez__/hao-kinasnowflakenoji-neng-fa-biao-doragongahao-kinasnowflakenoji-neng-wofa-biao-simasu)
 - [Cortex Code CLI と一緒に進めるAgentic Data Engineering](https://speakerdeck.com/__allllllllez__/cortex-code-cli-to-xu-nijin-meruagentic-data-engineering)
-- [Snowflake Openflow は 「難しい」と思っているあなたへ ～あらゆるデータを「簡単に」連携できる理由、お見せします～](https://speakerdeck.com/__allllllllez__/snowflake-openflow-ha-nan-sii-tosi-tuteiruanatahe-arayurudetawo-jian-dan-ni-lian-xi-dekiruli-you-ojian-sesimasu)
 <!-- SpeakerDeck:END -->
 
 ---
