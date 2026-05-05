@@ -244,7 +244,7 @@ WIP
 | Cloud Platform | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
 | DWH / Data Platform | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white) |
 | DB | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![HiveQL](https://img.shields.io/badge/HiveQL-FDEE21?style=flat&logo=apachehive&logoColor=black) |
-| ETL | Fivetran いれたい ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Embulk](https://img.shields.io/badge/Embulk-E5601A?style=flat&logoColor=white) |
+| ETL | ![Fivetran](https://img.shields.io/badge/Fivetran-0073FF?style=flat&logo=fivetran&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Embulk](https://img.shields.io/badge/Embulk-E5601A?style=flat&logoColor=white) |
 | DevOps & Tools | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) |
 | Others | ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white) |
 
