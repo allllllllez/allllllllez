@@ -8,7 +8,7 @@
 
 Data Engineer / Management tech communities, plan events and speak at events, and more / データをエンジニアリングするおしごとをしています / 技術コミュニティの運営・イベントの企画・登壇などを行っています
 
-Snowflake-Data-Superheroes <a href="https://medium.com/snowflake/introducing-the-2024-snowflake-data-superheroes-1962bc20079f">2024</a>, <a href="https://medium.com/snowflake/celebrating-the-2025-data-superheroes-the-innovators-trailblazers-and-changemakers-8e219e48587a">2025</a>, <a href="https://medium.com/snowflake/celebrating-the-2026-data-superheroes-e1ca84f89020">2026</a> / <a href="https://primenumber.com/news/2032">2025 primeNumber DATA CHAMPIONS</a>
+Snowflake Data Superheroes <a href="https://medium.com/snowflake/introducing-the-2024-snowflake-data-superheroes-1962bc20079f">2024</a>, <a href="https://medium.com/snowflake/celebrating-the-2025-data-superheroes-the-innovators-trailblazers-and-changemakers-8e219e48587a">2025</a>, <a href="https://medium.com/snowflake/celebrating-the-2026-data-superheroes-e1ca84f89020">2026</a> / <a href="https://primenumber.com/news/2032">2025 primeNumber DATA CHAMPIONS</a>
 
 <div align="center">
   <a href="https://github.com/allllllllez/allllllllez/">
@@ -52,8 +52,8 @@ Snowflake-Data-Superheroes <a href="https://medium.com/snowflake/introducing-the
 ### SpeakerDeck
 
 <!-- SpeakerDeck:START -->
+- [好きなSnowflakeの機能発表ドラゴンが好きなSnowflakeの機能を発表します](https://speakerdeck.com/__allllllllez__/hao-kinasnowflakenoji-neng-fa-biao-doragongahao-kinasnowflakenoji-neng-wofa-biao-simasu)
 - [Cortex Code CLI と一緒に進めるAgentic Data Engineering](https://speakerdeck.com/__allllllllez__/cortex-code-cli-to-xu-nijin-meruagentic-data-engineering)
-- [Snowflake Openflow は 「難しい」と思っているあなたへ ～あらゆるデータを「簡単に」連携できる理由、お見せします～](https://speakerdeck.com/__allllllllez__/snowflake-openflow-ha-nan-sii-tosi-tuteiruanatahe-arayurudetawo-jian-dan-ni-lian-xi-dekiruli-you-ojian-sesimasu)
 <!-- SpeakerDeck:END -->
 
 ---
