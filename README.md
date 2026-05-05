@@ -95,6 +95,9 @@ Snowflake-Data-Superheroes <a href="https://medium.com/snowflake/introducing-the
 | 2/17 | #p_UG 東京：kintoneデータ活用LT大会｜Terraform・AI・リバースETL実践事例 | 🔁 | [connpass](https://pug.connpass.com/event/381439/)<br>[まとめ](https://posfie.com/@__allllllllez__/p/ZRjg1vS) |
 | 2/27 | [Snowflake女子会] 女性限定！テーマ２本立て！生成AI × Streamlitでアプリを作ろう！女性だけのグループディスカッション！ | 🔁 | [TECHPLAY](https://techplay.jp/event/991660)<br>[まとめ](https://posfie.com/@__allllllllez__/p/0toKHR1) |
 | 3/17 | Snowflake Tech Fast Track | 🎤 | [イベントページ](https://www.snowflake.com/snowflake-tech-fast-track/)<br>[資料](https://speakerdeck.com/__allllllllez__/cortex-code-cli-to-xu-nijin-meruagentic-data-engineering)<br>[イベントレポート](https://datumstudio.jp/blog/0408-snowflake-dataforbreakfast-report/) |
+| 4/10 | 試されDATA SAPPORO #3 | 🎤 | [イベントページ](https://tamesaredatahokkaido.connpass.com/event/385344/)<br>[資料](https://speakerdeck.com/__allllllllez__/hao-kinasnowflakenoji-neng-fa-biao-doragongahao-kinasnowflakenoji-neng-wofa-biao-simasu)<br>[動画](https://x.com/__allllllllez__/status/2048696102388732126) |
+| 4/28 | TROCCOとSnowflakeでデータ分析ハンズオン<br>〜#p_UG×#Snowflake女子会コラボ | 🔁🎤 | [イベントページ(pUG)](https://pug.connpass.com/event/389174)<br>[イベントページ(Snowflake女子会)](https://techplay.jp/event/994012)<br>[ハンズオン資料](https://github.com/allllllllez/20260428_pUG_Snowvillage_wmn_handson)<br>[イベントレポート](https://note.com/snowvillage_wmn/n/nad2a998db3f1)<br>[まとめ](https://posfie.com/@__allllllllez__/p/qCFi8ID)|
+
 
 </details>
 
