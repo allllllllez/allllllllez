@@ -62,7 +62,7 @@ Snowflake Data Superheroes <a href="https://medium.com/snowflake/introducing-the
 
 | グループ名 | 期間 | 説明 |
 | -- | -- | -- |
-| SnowVillage Mayors | 2024/12- | SnowVillage（Snowflake 日本コミュニティ） 全体のコラボレーション推進を担う企画・運営チーム <br>[SnowVillage](https://usergroups.snowflake.com/snowvillage/) |
+| SnowVillage Mayors | 2024/12- | SnowVillage（Snowflake 日本コミュニティ） 全体のコラボレーション推進を担う企画・運営チーム <br>[SnowVillage](https://snowvillage.cloud/) |
 | primeNumber User Group（pUG） | 2024/12- | クラウドETL「TROCCO」やクラウドデータカタログ「COMETA」のユーザーグループ<br>[connpass](https://pug.connpass.com/) |
 | Snowflake女子会 | 2024/9- | SnowVillage で女性同士のつながりと活躍の場を作るコミュニティ<br>[TECHPLAY](https://techplay.jp/community/snowvillage-women)<br>[note](https://note.com/snowvillage_wmn) |
 | Frosty Friday Live Challenge | 2024/5- | 定期配信・イベント企画<br>[<img alt="Frosty Friday Live Challenge" src="https://github.com/user-attachments/assets/fa28efe0-3d44-4e83-a877-d862cf833e26" width="200">](https://youtube.com/playlist?list=PLVj4iIZgzTAq2FzaBBgqFOtZaJTcoG3JR&si=w9FrB6cJBq6LCaFX)<br>[Frosty Friday(Original)](https://frostyfriday.org/)<br>[私の解法はこちら](https://github.com/allllllllez/frosty_friday/) |
@@ -96,6 +96,7 @@ Snowflake Data Superheroes <a href="https://medium.com/snowflake/introducing-the
 | 2/27 | [Snowflake女子会] 女性限定！テーマ２本立て！生成AI × Streamlitでアプリを作ろう！女性だけのグループディスカッション！ | 🔁 | [TECHPLAY](https://techplay.jp/event/991660)<br>[まとめ](https://posfie.com/@__allllllllez__/p/0toKHR1) |
 | 3/17 | Snowflake Tech Fast Track | 🎤 | [イベントページ](https://www.snowflake.com/snowflake-tech-fast-track/)<br>[資料](https://speakerdeck.com/__allllllllez__/cortex-code-cli-to-xu-nijin-meruagentic-data-engineering)<br>[イベントレポート](https://datumstudio.jp/blog/0408-snowflake-dataforbreakfast-report/) |
 | 4/10 | 試されDATA SAPPORO #3 | 🎤 | [イベントページ](https://tamesaredatahokkaido.connpass.com/event/385344/)<br>[資料](https://speakerdeck.com/__allllllllez__/hao-kinasnowflakenoji-neng-fa-biao-doragongahao-kinasnowflakenoji-neng-wofa-biao-simasu)<br>[動画](https://x.com/__allllllllez__/status/2048696102388732126) |
+| 4/24 | ナウキャスト・DATUM STUDIO・ちゅらデータ 3社合同<br>失敗談の供養祭～話して楽になるハンガーフライト～ | 📍 | [レポート](https://zenn.dev/finatext/articles/nc-datum-chura-failure-lt-report-202604) |
 | 4/28 | TROCCOとSnowflakeでデータ分析ハンズオン<br>〜#p_UG×#Snowflake女子会コラボ | 🔁🎤 | [イベントページ(pUG)](https://pug.connpass.com/event/389174)<br>[イベントページ(Snowflake女子会)](https://techplay.jp/event/994012)<br>[ハンズオン資料](https://github.com/allllllllez/20260428_pUG_Snowvillage_wmn_handson)<br>[イベントレポート](https://note.com/snowvillage_wmn/n/nad2a998db3f1)<br>[まとめ](https://posfie.com/@__allllllllez__/p/qCFi8ID)|
 
 
