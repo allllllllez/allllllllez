@@ -45,8 +45,8 @@ Snowflake Data Superheroes <a href="https://medium.com/snowflake/introducing-the
 ### Zenn
 
 <!-- Zenn:START -->
+- [[Summit 2026 ハンズオンレポート] Snowflake Openflow も CI/CD しよう feat. CoCo](https://zenn.dev/datum_studio/articles/20260602_snowflakesummit_openflow_hol)
 - [2025年も目玉機能全部乗せなデモをやってみましたのご報告 ～ SWTT DATUM STUDIO ブース解説](https://zenn.dev/datum_studio/articles/45d07c2a3dae0a)
-- [Snowflake Postgres に SPCS（Snowpark Container Services）からアクセスしてみる](https://zenn.dev/datum_studio/articles/2bcee8e153e3c9)
 <!-- Zenn:END -->
 
 ### SpeakerDeck
