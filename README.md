@@ -45,8 +45,8 @@ Snowflake Data Superheroes <a href="https://medium.com/snowflake/introducing-the
 ### Zenn
 
 <!-- Zenn:START -->
+- [[小ネタ] dbt platform で環境のカスタムブランチをタグに自動追従させる](https://zenn.dev/allllllllez/articles/20260705-dbt-cloud-git-tag-action)
 - [[Summit 2026 ハンズオンレポート] Snowflake Openflow も CI/CD しよう feat. CoCo](https://zenn.dev/datum_studio/articles/20260602_snowflakesummit_openflow_hol)
-- [2025年も目玉機能全部乗せなデモをやってみましたのご報告 ～ SWTT DATUM STUDIO ブース解説](https://zenn.dev/datum_studio/articles/45d07c2a3dae0a)
 <!-- Zenn:END -->
 
 ### SpeakerDeck
