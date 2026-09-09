@@ -98,6 +98,11 @@ Snowflake Data Superheroes <a href="https://medium.com/snowflake/introducing-the
 | 4/10 | 試されDATA SAPPORO #3 | 🎤 | [イベントページ](https://tamesaredatahokkaido.connpass.com/event/385344/)<br>[資料](https://speakerdeck.com/__allllllllez__/hao-kinasnowflakenoji-neng-fa-biao-doragongahao-kinasnowflakenoji-neng-wofa-biao-simasu)<br>[動画](https://x.com/__allllllllez__/status/2048696102388732126) |
 | 4/24 | ナウキャスト・DATUM STUDIO・ちゅらデータ 3社合同<br>失敗談の供養祭～話して楽になるハンガーフライト～ | 📍 | [レポート](https://zenn.dev/finatext/articles/nc-datum-chura-failure-lt-report-202604) |
 | 4/28 | TROCCOとSnowflakeでデータ分析ハンズオン<br>〜#p_UG×#Snowflake女子会コラボ | 🔁🎤 | [イベントページ(pUG)](https://pug.connpass.com/event/389174)<br>[イベントページ(Snowflake女子会)](https://techplay.jp/event/994012)<br>[ハンズオン資料](https://github.com/allllllllez/20260428_pUG_Snowvillage_wmn_handson)<br>[イベントレポート](https://note.com/snowvillage_wmn/n/nad2a998db3f1)<br>[まとめ](https://posfie.com/@__allllllllez__/p/qCFi8ID)|
+| 6/9 | #p_UG 東京：三菱自動車工業と日本経済新聞社が語る、顧客理解を深める『データ活用』 | 🔁 | [connpass](https://pug.connpass.com/event/393806/)<br>[まとめ](https://posfie.com/@__allllllllez__/p/aWnoFfU) |
+| 7/7 | #p_UG 東京:星じゃなくてAIに願いを⭐データ基盤におけるAI活用紹介 | 🔁 | [connpass](https://pug.connpass.com/event/396734/)<br>[まとめ](https://posfie.com/@__allllllllez__/p/g7imkfZ) |
+| 8/12 | 【ハイブリッド開催】Code-Driven データ分析ナイト #3 AIエージェント共有 | 📍🎤 | [connpass](https://code-based-presentation.connpass.com/event/401427/) |
+| 8/25 | #p_UG pUG FES 2026 ~最新のデータ/AI活用事例を学んでつながれる1日~ | 🔁 | [connpass](https://pug.connpass.com/event/399492/)<br>[まとめ](https://posfie.com/@__allllllllez__/p/F267bB2) |
+| 8/27 | Snowflake女子会 #8 〜語って、広げる。女性エンジニアのキャリア〜 | 🎤 | [TECHPLAY](https://techplay.jp/event/998439) |
 
 
 </details>
