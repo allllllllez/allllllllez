@@ -52,8 +52,8 @@ Snowflake Data Superheroes <a href="https://medium.com/snowflake/introducing-the
 ### SpeakerDeck
 
 <!-- SpeakerDeck:START -->
+- [Adaptive Warehouse を今すぐ導入すべき理由と迷ったときの判断基準](https://speakerdeck.com/__allllllllez__/adaptive-warehouse-o-ima-sugu-dounyuu-subeki-riyuu-to-mayota-toki-no-handan-kijun)
 - [好きなSnowflakeの機能発表ドラゴンが好きなSnowflakeの機能を発表します](https://speakerdeck.com/__allllllllez__/hao-kinasnowflakenoji-neng-fa-biao-doragongahao-kinasnowflakenoji-neng-wofa-biao-simasu)
-- [Cortex Code CLI と一緒に進めるAgentic Data Engineering](https://speakerdeck.com/__allllllllez__/cortex-code-cli-to-xu-nijin-meruagentic-data-engineering)
 <!-- SpeakerDeck:END -->
 
 ---
